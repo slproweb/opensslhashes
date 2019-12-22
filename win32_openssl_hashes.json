@@ -6,18 +6,18 @@
         "alt_source": "https://github.com/slproweb/opensslhashes/raw/master/win32_openssl_hashes.json"
     },
     "files": {
-        "Win32OpenSSL-1_0_2t.exe": {
+        "Win32OpenSSL-1_0_2u.exe": {
             "basever": "1.0.2",
-            "subver": "t",
+            "subver": "u",
             "bits": 32,
             "light": false,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL-1_0_2t.exe",
-            "size": 21028958,
-            "md5": "ffcb253288c311e92a589f546422dbf5",
-            "sha1": "db9bb96d33f2393e2a9912a28e2921e6bc879203",
-            "sha256": "c2fbdbac18a424e36c6f7b4167e566d1de6b7f36cacd4592d8b6800775cd5cd0",
-            "sha512": "d5c4f3572955fc143bfbaee5d24e60faf1c33946d11996a0eb1927d7adb23af718b9488e1956e4017562363a897d6df8cb4f794e2e4d25ac91287d996d4187d7"
+            "url": "https://slproweb.com/download/Win32OpenSSL-1_0_2u.exe",
+            "size": 21028857,
+            "md5": "452455d5badb8b2e546a6b072d2ddce0",
+            "sha1": "9489c352c32a609aec308f08fbd7cba2a605dca2",
+            "sha256": "c0ad49f6b37f94408f954fa69065fa2db61c00ebfc211d946c1070e8ba8ec801",
+            "sha512": "822f45614f11a792351c8927ae978d0f11ee6c1207f530bfc5cc707987003c4417140e94810054625089655a013230a0f94868b4edb721f8d6cebb19d1bb9745"
         },
         "Win32OpenSSL-1_1_0L.exe": {
             "basever": "1.1.0",
@@ -58,18 +58,18 @@
             "sha256": "0670a2fa759661ddfc92454e265358e953faebc3c714b2b5b2f818f2acb37ae8",
             "sha512": "9db8e2d9466284a23cd63a6feeb8c7360c83643e285635d19a77da145797854cc9a25d3ad6ba37115be88fc76207d46b89f8b15fbca8e5f474acfb3afe97aefe"
         },
-        "Win32OpenSSL_Light-1_0_2t.exe": {
+        "Win32OpenSSL_Light-1_0_2u.exe": {
             "basever": "1.0.2",
-            "subver": "t",
+            "subver": "u",
             "bits": 32,
             "light": true,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_0_2t.exe",
-            "size": 2119073,
-            "md5": "197a716d8dd25cca795e11920c5e6ab9",
-            "sha1": "a209ccebd81ddef314106353c8ad4dc0b36a763c",
-            "sha256": "cebad1c76ee1eb2f09d900f57ef05be3902930474c29da87e48eadec9050b686",
-            "sha512": "8835bb9d5bebefc5b9c8c3b99e6968c4b8de57e88f03e177b81dff8fbe763a66d944d53e259e653c95747de43da76303e3b68bf9b3a429af019c87890ed0b3ef"
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_0_2u.exe",
+            "size": 2119574,
+            "md5": "ad307cac3473d0572258b9c78128d4c9",
+            "sha1": "a7e3f983c5a5b85e06cc456900aacdd16303c70d",
+            "sha256": "74b35d33970414a9cb67b08240ace398250666653a321878b2334215e0dd2bfd",
+            "sha512": "eee9bb5872e12e727bd23195ffc99f7f6227b403f2b3bc820b76eb1b1170f08e310a198696c7b34187cd0031f9ecbf47cd2b3b26607352cc8b395adcd3d69b1f"
         },
         "Win32OpenSSL_Light-1_1_0L.exe": {
             "basever": "1.1.0",
@@ -110,18 +110,18 @@
             "sha256": "1521764d646fe47da0c1240a5334b8258f2a52306ca1e32e391752aeb44c6153",
             "sha512": "13a37afc7527c8555dbb79e23d117508d429de218d4a1ec996a2053e2abe93c28c8af692410d8a52581dc9daaa4c5a2596bb718e611390e749af964d825959a2"
         },
-        "Win64OpenSSL-1_0_2t.exe": {
+        "Win64OpenSSL-1_0_2u.exe": {
             "basever": "1.0.2",
-            "subver": "t",
+            "subver": "u",
             "bits": 64,
             "light": false,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win64OpenSSL-1_0_2t.exe",
-            "size": 25069582,
-            "md5": "ac988e6b3d28efcf196178f35ae7fdf8",
-            "sha1": "92288fb8f5d1af36960da518a21ed76cd9d7bd55",
-            "sha256": "388e7dfd65e3eee23f9f9fb7ce70dfdbb0a6578dc87e34a46c093144c2476373",
-            "sha512": "84bfdf775dc82859958ec1ed14e44ffec6cb3da5249268cec7840a729491b629491955ff1c303e80fec9dd61717edd9701f7205903f408e0b8b16e77ff62b8ed"
+            "url": "https://slproweb.com/download/Win64OpenSSL-1_0_2u.exe",
+            "size": 25069313,
+            "md5": "bfb2c13240706c1f929daa4ca7e0a69c",
+            "sha1": "72b2de0132de36577e3d43f8adaf2ece91d79f01",
+            "sha256": "46ec55a9227b0ce8a7e332bae0363d9d765c721d4a233830f8177f06170c0de0",
+            "sha512": "06c7ebf905ca11c7ccf987b5dc29051c4b28eea27ff25309f36fa5fb575a79abdb46dd427cec344ff4c67d9cad82ee51770f0850ae6ce863717d3b246fc8f085"
         },
         "Win64OpenSSL-1_1_0L.exe": {
             "basever": "1.1.0",
@@ -162,18 +162,18 @@
             "sha256": "68e3f549007f941451fad7858506d5e175059e3ece64d5abc22438db19de230f",
             "sha512": "322b4f2b174493eb7ee3441592c7ee94ccd5918e5183fa1bd29ff297e009598c77aca7f443572a2e053ad3f1eb995f1fbdb362940e757b525c0026f2b417b27d"
         },
-        "Win64OpenSSL_Light-1_0_2t.exe": {
+        "Win64OpenSSL_Light-1_0_2u.exe": {
             "basever": "1.0.2",
-            "subver": "t",
+            "subver": "u",
             "bits": 64,
             "light": true,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_0_2t.exe",
-            "size": 2942191,
-            "md5": "4f21b4871ef508510c248207f82605a9",
-            "sha1": "61d1032530bbc9e61d89328d4741f24bac1adbc2",
-            "sha256": "91483acc058a2bcc6809fd9bb54fcd75d83985d7de3ae3d2472a6bfcd296e1e6",
-            "sha512": "d0bab8bc496c31af7dad10a29b2f2db24ed4db325da700422d8a0c84e5ec894c8be4394c2e2e547d8a21dacc25ca039b43dea11556e7320d188fe7baec600308"
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_0_2u.exe",
+            "size": 2942640,
+            "md5": "fca33f32981018dfa60369981a9d5d52",
+            "sha1": "485b36bada414ebd09bbab85d1d6f2a5de30facc",
+            "sha256": "17790d32ac17d43cabe77c2542a586f95b2741f9dcf8a043e95bf9a834718047",
+            "sha512": "e4f6a0ed9b34cdbf98e6dd3952e1962c535cbea82f596b1c13a20610636b364384915204e40872140219ac967bab7ae1279ed72634d11d06b42d23602f9c5aa4"
         },
         "Win64OpenSSL_Light-1_1_0L.exe": {
             "basever": "1.1.0",
