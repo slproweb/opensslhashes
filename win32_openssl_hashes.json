@@ -6,109 +6,109 @@
         "alt_source": "https://github.com/slproweb/opensslhashes/raw/master/win32_openssl_hashes.json"
     },
     "files": {
-        "Win32OpenSSL-1_1_1j.exe": {
+        "Win32OpenSSL-1_1_1k.exe": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 32,
             "light": false,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1j.exe",
-            "size": 57832829,
-            "md5": "c74bf87a2baaf4efade59f0fbe88a0c8",
-            "sha1": "85e961dbad70555f35a48993b6d1adc6be3a38d2",
-            "sha256": "a4f684b25f24ef2c3ec546dc7abffaec210582f9405c03199945ee13075eb039",
-            "sha512": "7179f4d9b610de096a404e3dbb453c209bbbddb1cdf73b9aad662f0c6a93a93e1725d670bb9f8b3055e96b7fe40d4d86fe74bef8a839f05beaf14f15ab670234"
+            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1k.exe",
+            "size": 57831317,
+            "md5": "ee08c2d421a57fbab778a63b99eb8874",
+            "sha1": "49f5b7fe01d686f706071c9a00d19bd69f2e7371",
+            "sha256": "ff2e8168216e279b9a537d2281f7240ccf4629e23139d71d981af63bc537c9d9",
+            "sha512": "96f654adf2705152ff98cbe79333ac1d8b328d1c0ac3bb894b3967191adb0e5996b6fc386e7bff5799e3d5aed90c7c59e194b41b1007c0564e25802d7b1c7e45"
         },
-        "Win32OpenSSL-1_1_1j.msi": {
+        "Win32OpenSSL-1_1_1k.msi": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 32,
             "light": false,
             "installer": "msi",
-            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1j.msi",
-            "size": 57913344,
-            "md5": "4310f20e0f587ef3929a9c8a3a0658b9",
-            "sha1": "c2a303671205e8462b2cb1137f6ae3359ad85726",
-            "sha256": "b10dceade19634761a3ddcdc87ed6c4ef2e188e48fc99a2435362818ec0030ef",
-            "sha512": "6efb57662684784bf5648029a9160d6e35ada5f4b4adadfd9ec43af8d45767f6a56e73bafd190e3f48bf151a5ddc161f338f1392d2bdda45757b4bfd545c21c6"
+            "url": "https://slproweb.com/download/Win32OpenSSL-1_1_1k.msi",
+            "size": 57909248,
+            "md5": "ce6251ac53e22385e2aac23d5a152bdc",
+            "sha1": "767392e7fd653ad820f8f9eecebc5db804c49e9d",
+            "sha256": "25a130c8b38f56b771f8002a05a7c43d998785b7086cb4ccb76a05e91ffa1124",
+            "sha512": "ae6458a5f4b1e6f5b186c7bdf7f815c7209d4f34ce210598682f7f2c8319130c539deb38bc36478fb12f9749c80d61becaa56dfd025a46e9f9d705d151b026c8"
         },
-        "Win32OpenSSL_Light-1_1_1j.exe": {
+        "Win32OpenSSL_Light-1_1_1k.exe": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 32,
             "light": true,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_1_1j.exe",
-            "size": 3143123,
-            "md5": "8c234a12eaa132d3957b482855400d2b",
-            "sha1": "0d6ebc4faa255ba3bb41c331ab3c048e0d210a03",
-            "sha256": "baddd947feed97c48021067e10b901f1cb39e309a076fff898a36a195ed4bd71",
-            "sha512": "76647e6c45a1f201c3e3125d5961f63fd84997b0d24f65da8797c6bf740f7e7745a746dfee8281bfb3342892864f4dd8bb099dfcb09397af93ded268c318269c"
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_1_1k.exe",
+            "size": 3144102,
+            "md5": "e1f3d9285f5363ef5fe5a1168887aee3",
+            "sha1": "2d4a57db181eb3386ba5ff01e08ebd0ca0491c04",
+            "sha256": "e099607c1765a3c218c9c3988271e15d738b00c2cd43f7a60cd2108cef72ea6a",
+            "sha512": "9c1905bcfa50669d6be2243553ace3b17e371801685bcad19084957e337c6c81bbcd55f886397e1abf652e14d25aba9b1dd345485a9034c2ac8070fb83b4bd2a"
         },
-        "Win32OpenSSL_Light-1_1_1j.msi": {
+        "Win32OpenSSL_Light-1_1_1k.msi": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 32,
             "light": true,
             "installer": "msi",
-            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_1_1j.msi",
-            "size": 3366912,
-            "md5": "9986f2b91f6289ea4bbff08ec9d21635",
-            "sha1": "a8bc2f7e551a1747d8773f14756e9328a13cd41d",
-            "sha256": "e80ccfe0cd9939e0858bc1c17acd2562c602f4d44f7b8260e2a328ab8b879da5",
-            "sha512": "c59b43ae7f84d615decde0d8a5b5b558fe11da93bb75b3a1f2206bd6775a45273f07064dcb4d4029151ebccef80a1be7594409436cf2f9d18bd36c633e33fb47"
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-1_1_1k.msi",
+            "size": 3371008,
+            "md5": "871a5ae88153e93b41fc11c9186f3e1d",
+            "sha1": "cdd6a7571280b8e9c66ad128c7ddacefdfa71a6d",
+            "sha256": "9f4fe3d0024e26ee59d2fe35a8901cec89d006055cd51c5cc4f19ad96f41cb07",
+            "sha512": "93256b48f28c907cb362ec1dee2d9e9d56bea43c5a21deaaff1468162ffb4addc545f9d2a14aae212aa613ef1a016eeb246e795d997f92843c30bc599fdfc660"
         },
-        "Win64OpenSSL-1_1_1j.exe": {
+        "Win64OpenSSL-1_1_1k.exe": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 64,
             "light": false,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win64OpenSSL-1_1_1j.exe",
-            "size": 67416534,
-            "md5": "10f5d10138b1c850378788029f79dfa4",
-            "sha1": "0ab77ad572ff97699d61bb47d191d6f8271beb68",
-            "sha256": "eaf2bd1fcd9b362b632a4e3f0fb22f35c904bd0c0862c8fd35ea4534e0587d2c",
-            "sha512": "479a4f21509a5c958ee72f8e936195c94e8a5d829c5808de680b787884e4d7dd0a46a7f472eb2164958cf2060d1ea685e50283d5d49008adcbd51dc87be1edd7"
+            "url": "https://slproweb.com/download/Win64OpenSSL-1_1_1k.exe",
+            "size": 67429487,
+            "md5": "47dca8e88aa5b9ffa18edcd29c862747",
+            "sha1": "ab5367a1f46a3779a870fe2c1a99e03f8ffa3041",
+            "sha256": "e04b056b83572e8395aa680733fb988c6fc005b86e45f9ac0569796dfcbeaf13",
+            "sha512": "46e451ac22590655b4b59bf8306768decf32e88c18656b89910087d0bdd295fcfb89cb30e481996757b6845395c09cf8236d55094f7b8f75dba56ce334791f66"
         },
-        "Win64OpenSSL-1_1_1j.msi": {
+        "Win64OpenSSL-1_1_1k.msi": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 64,
             "light": false,
             "installer": "msi",
-            "url": "https://slproweb.com/download/Win64OpenSSL-1_1_1j.msi",
-            "size": 67493888,
-            "md5": "ad4dc6af9aa5ba231b3c2c34554782d8",
-            "sha1": "c726bddad21bd473bb809e7362e94b6a8601c91a",
-            "sha256": "1ef37a5294324a90e9b58234b9cbb33b0ceca0791d8d63def225b9497d7d5034",
-            "sha512": "e6495b07f177ff4e460e8c8d4580b26bca3941273126aa19a5af21eec4191f33eb2e8dd044a4e09b3ea00e1a3a8480456428914a09d3ae0376558c9edbe3d547"
+            "url": "https://slproweb.com/download/Win64OpenSSL-1_1_1k.msi",
+            "size": 67506176,
+            "md5": "862bf9d5d82982c9d262cdd065149865",
+            "sha1": "bd7af5f6536110a5e8f6bb7e9b15bbcc069a7fdc",
+            "sha256": "c21e1b472c7777c7b2017fd335fc827976944bb1349731989c8d9e16d913519a",
+            "sha512": "0834080fd24f5c8c38063db97758c396fb2718022a6e7c625dfed46d504af63f6322e80f10d69df0b143d40ba1d0ca190d7c5fa5149058e6e50e9dc0be79faff"
         },
-        "Win64OpenSSL_Light-1_1_1j.exe": {
+        "Win64OpenSSL_Light-1_1_1k.exe": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 64,
             "light": true,
             "installer": "exe",
-            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_1_1j.exe",
-            "size": 3715616,
-            "md5": "a1276724de33947626425602787370f8",
-            "sha1": "642b0f3317d749c9f31c45a00077c35ffed1adb1",
-            "sha256": "ac8a363d1c31f211ca15648d15091687eeb5b33aded197bb349b1fecf7a1a88c",
-            "sha512": "7c6960712c4b173bd83407ca231f8baab2d5fbb47e1dbd869205ef50cdb6f2ee0aed8b94bf94147c49e81f0e5954ba4c629f6e4a6414bd8cc7066c7bb58c621a"
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_1_1k.exe",
+            "size": 3716703,
+            "md5": "401affb673d7c29c3df76c653e7ecf98",
+            "sha1": "41a6571c42130b241872d769321e2a232c3395c9",
+            "sha256": "fc0a64376475e45af15efe489e2a946eabdbffc7bd8e454b730564729cc79dba",
+            "sha512": "41fbede48603fe0aa6ace3476df3133640bda24244ec1ea029b8125eea13c45c693977883860a50996b0073fc6c3fce68a95687cf678e1f994e2eb4317f9f95a"
         },
-        "Win64OpenSSL_Light-1_1_1j.msi": {
+        "Win64OpenSSL_Light-1_1_1k.msi": {
             "basever": "1.1.1",
-            "subver": "j",
+            "subver": "k",
             "bits": 64,
             "light": true,
             "installer": "msi",
-            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_1_1j.msi",
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-1_1_1k.msi",
             "size": 3940352,
-            "md5": "f73b0bb6dbe6846d85768e7c78be519c",
-            "sha1": "c349ca11619aaad6213626f85ed286035f960549",
-            "sha256": "c0669d6da2c0fd2821aa4655e037f08d72533658645b75e29e1fc9eadf2f299e",
-            "sha512": "308637a397fc9893fe13f08bb0454553c3ef88e4c633fc1daa4a9b38fd0fbf2bf32dc47c7b6ba40dca4fb98bc4a13b7cc42245fa49c2b26df11cea1632e0a799"
+            "md5": "df7c81dcf46300cbb7798f43ce26e3bf",
+            "sha1": "b221aabc1afefa9bd32ada1856272ca3fc59ae9a",
+            "sha256": "cf29dd125d0fff9a6a0c20a708b89958738a51f6bb1cd8cbd3bb09010f096d92",
+            "sha512": "7fd8138a4344183048b66e653be8debab9bc62d986db8b35489785928abc724248fe102c69e6e2e4b1486f7614cfbca02e613f6f24aaaf0dafbb877e31f93e19"
         }
     }
 }
