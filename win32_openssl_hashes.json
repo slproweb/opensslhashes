@@ -2,7 +2,7 @@
     "info": {
         "title": "Win32/Win64 OpenSSL Installer Hashes",
         "description": "Latest file hashes for Win32/Win64 OpenSSL installers.",
-        "source": "https:///github.com/slproweb/opensslhashes/",
+        "source": "https://github.com/slproweb/opensslhashes/",
         "alt_source": "https://github.com/slproweb/opensslhashes/raw/master/win32_openssl_hashes.json"
     },
     "files": {
