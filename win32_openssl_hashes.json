@@ -63,6 +63,34 @@
             "sha256": "545111206c0162628180c48a74ef765db34b04ac796ee3e26c924c502e5a7e8a",
             "sha512": "de49382d66d119b9126e245c3e769e1f25d906c30036a5a311b9550c8904b9dc0856a32d90c2f76e4029c50fad73e392b5428cc85b1b6d3d9c2c0882f98ea45e"
         },
+        "Win32OpenSSL-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win32OpenSSL-3_1_0.exe",
+            "size": 127751468,
+            "md5": "ac7ac92537c51cf3d8dcdd7c20b98964",
+            "sha1": "1c42ecb54bbe3d437fe18ba160f8d49193b40928",
+            "sha256": "0e1e85810367ef0b8384c09e7a71895de91a8a714bc848d9b32ef5a73f832923",
+            "sha512": "936e002cdc6543fd8f77ec968c21734a1807b2729900c8b5bf1d01229e005121a0717708c6b50a16bd8b5b7fbcdd5f7e95ac42739d995a4828a4e500f96ac63f"
+        },
+        "Win32OpenSSL-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win32OpenSSL-3_1_0.msi",
+            "size": 127881216,
+            "md5": "ec6b10d9ab730598c6f79953c407dd33",
+            "sha1": "6cedb48285c0d6b799e77142a78f33bb6b0e4c8c",
+            "sha256": "e0d79c35935456ff4d5175698350009c17474912a439615846d645925b2df5e9",
+            "sha512": "9e705ca915bd052ef561b4c25c5bef6c529f156e958d23a7fe59932d2b6897e922233a363360186d42cf8c36615f3e2ffbaae320daf1163d6921a7ba8b937b21"
+        },
         "Win32OpenSSL_Light-1_1_1t.exe": {
             "basever": "1.1.1",
             "subver": "t",
@@ -119,6 +147,34 @@
             "sha256": "228174ba0c0ef9f126e97921fc0da1612da8789bce787fecec641a285be35098",
             "sha512": "51deaff8978fa87ffd68aa6d770e5cc56cddc0e739fdf43903f5c98ae44688ca9029dee123815dfc5017e36249b6467784cf7c84e9fa1f9032d30c9863f83843"
         },
+        "Win32OpenSSL_Light-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-3_1_0.exe",
+            "size": 3977782,
+            "md5": "7ac82a91c546877941d832de120300ce",
+            "sha1": "d95ccc700c6272c46c360c1dbd9a9a4eb1200f05",
+            "sha256": "8f7a66d4a1f80428f7cdf1873c979e3eef3fde38cf2ae18d84accc8889400009",
+            "sha512": "8ae4c5e33339894d8b0b8749b06b5eb30893c87e0e438d41e0b0bbd2650a1aa762cb9da64b93e15a8fff257a5151201bd07c77865ac071f952f97f65a0e1f04f"
+        },
+        "Win32OpenSSL_Light-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-3_1_0.msi",
+            "size": 4210688,
+            "md5": "7676b19bc8177bac879d13d19b649a2c",
+            "sha1": "7ad54976f9f52f7651e26971af45f8295ac95c9c",
+            "sha256": "59688a6ff3e9e7f6cd13511833a0a1d0e6c35342429b9f4d46dda9687eb8f4b2",
+            "sha512": "0c23be88afcea0605422143411ed37be1ac34f211bffef4b08bb1dae7ff15a78a2a441dcb5e9fbee2212b9a8f4816ec99d2bf477104b440f76ce7443ce65223d"
+        },
         "Win64ARMOpenSSL-3_0_8.exe": {
             "basever": "3.0.8",
             "subver": "",
@@ -147,6 +203,34 @@
             "sha256": "bff2087733f153e540210e2b673e7d1fee33782073ed8616000b99342fe79587",
             "sha512": "57cb22f40e567898395213bc9641ee837d5d2955317617d9ec77470659b19d5574cf80a327127e53ca22d61a575996b8a1281e151889161f0362f9030a458771"
         },
+        "Win64ARMOpenSSL-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL-3_1_0.exe",
+            "size": 124396326,
+            "md5": "cde357222c29f3dd9f1b040c6fd702ba",
+            "sha1": "dafba919de454805b58c3b48f667717fa886c429",
+            "sha256": "bd1b3fe0d1c2e6129cea1d4d3a910a3a283bb249945380e738b6454abdd3a800",
+            "sha512": "23b3de53dc87547808357f02557253514452990c3da5435803ff2baf9cb723772fc09595e09fd71eae35bfd960e9ab0abe94e884b312fbaf6e6ba78368e2bfe1"
+        },
+        "Win64ARMOpenSSL-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL-3_1_0.msi",
+            "size": 124022784,
+            "md5": "b6b778bd6c4ef718b935403bb8fe6950",
+            "sha1": "4cb826e8593003cc4f4ecaefd4127b3772d76f22",
+            "sha256": "a771b2bb88c7dcb9213cd3b2ab71f9bdb966607725aa01d0258155b1740f6e59",
+            "sha512": "090b48061b0f42830479bbe0305f780c3aa66bada98735a7ec3145a8cf634e690c659c062ff1f4595ee5fdfd67642b9f8ad5e3e20623aef28738fcaff28ff54f"
+        },
         "Win64ARMOpenSSL_Light-3_0_8.exe": {
             "basever": "3.0.8",
             "subver": "",
@@ -174,6 +258,34 @@
             "sha1": "c7f27cac246110f7106d154d2d5b1b8b020a3e59",
             "sha256": "3181a997f5f7669864c7c2a5c2318fe198a0cadff5b61710e2c106410922868e",
             "sha512": "feea6e21bcbbb4aabfa7de9d1427445dbca9ec1c8331fe0dd7c6aaff1eba0effe8911a3b33d68cc51cf1bee4ffc42d3b7935879cabbe87d8dc5b01553bfad2f9"
+        },
+        "Win64ARMOpenSSL_Light-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL_Light-3_1_0.exe",
+            "size": 5416036,
+            "md5": "561f8eab5b82418229d5523bd6f9a12b",
+            "sha1": "d6040a1961c1eacdb2e5d5ec060f1acef4c2c995",
+            "sha256": "7f039a41a39e952c7e45c0796f2e1a2d70cf2cbc160b2ee6c2c0f09aafac050d",
+            "sha512": "bb8e34ac7679e4a8c6fdf8adda2c0cd3479d5d93a2ad19baf9ca29ca1820feb9e959b33b31123aea4de4822c89e6fba5467a65a38b8ffdfeae9d8697fa56b64c"
+        },
+        "Win64ARMOpenSSL_Light-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL_Light-3_1_0.msi",
+            "size": 5165056,
+            "md5": "6ebc217a59b1858d3ec555db420e3a5f",
+            "sha1": "709a1a3b6713d775e957e2d6fac837435cffa000",
+            "sha256": "ea8019fd07e4f0fbafe17aa17ec9351df06dee2420f29306eadbe2a0db45b6a0",
+            "sha512": "3fb009cd572204ae693e131b826917096ccc033c588bb274a9fd8ae4c2cff3ea07ca276437514a46f888796b41f4dc68d19beb4bff4f76670922a38bfd99d8e4"
         },
         "Win64OpenSSL-1_1_1t.exe": {
             "basever": "1.1.1",
@@ -231,6 +343,34 @@
             "sha256": "7aa094e9a4e079e5e3d9e5829bb0eeb187f99919d0119759b88331e03da3bb77",
             "sha512": "8e6ef0abafecc04b5ec20a669f45b9e26e03d2b0570b74bba5ee6dede66b425e7c371f76bbc1ae52bc2955fd42a0db95473e2192e48639981ea64a04d8ac9920"
         },
+        "Win64OpenSSL-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64OpenSSL-3_1_0.exe",
+            "size": 159400262,
+            "md5": "e93175332f660171a6a76e9e48ad58c0",
+            "sha1": "4e3f74a63bc6f914b6b7a62eacec86f2ee9e17ab",
+            "sha256": "2bfda3e88f94852a378214f229aed822d2d98bd209e271325fa81063fbab322d",
+            "sha512": "85cd03af2745e56a2d445a8cf91a7f45e94224ce99edb918dab313c62c88fd89d7c31f3b5e4f1cb624c88224d8e25a3854c4e8c7c9d26309ae5b8e330d799ee5"
+        },
+        "Win64OpenSSL-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64OpenSSL-3_1_0.msi",
+            "size": 159395840,
+            "md5": "8fbe95c4a59c7a6a5b714ae3c5455154",
+            "sha1": "e03d6bee352e30dae364b88072e405b221d62f85",
+            "sha256": "7b37554b2ecf34ca9912f1ab2ebedf486ab9cdc4185d10e0a5a547f47d2a1db3",
+            "sha512": "8a5a9296824951c82c20e87d9cac33d96b2de1850d0b85584477f5270ccd9c56525bff84831cb67188fbf19648fe3deaee56a6b2a74aa25fa133903156b41bcf"
+        },
         "Win64OpenSSL_Light-1_1_1t.exe": {
             "basever": "1.1.1",
             "subver": "t",
@@ -286,6 +426,34 @@
             "sha1": "5be4417255c6179e067c3920de876ff98b7ce0aa",
             "sha256": "aa750c77fd7e65fa03d51342ca2e36a2f1026371d3ba7f43130af2851cd6926d",
             "sha512": "efdc9e5753f9a2f38c6b5b9bcf9b151980625af0d3cf2a2df26d33a80d723c1929b7d065ef3cf67cc41cd75c6e534338c65462dedf6b2b9145f87cd0bdf2e98a"
+        },
+        "Win64OpenSSL_Light-3_1_0.exe": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-3_1_0.exe",
+            "size": 4901471,
+            "md5": "c017e5058b5821c7dd369c24a7a3d79f",
+            "sha1": "d9a16901b34c9fad51f92042a5e6a889329f2341",
+            "sha256": "e9c601bf486519b7f7185b505871814c5a65fe6deaddda02409fd73a66fe0995",
+            "sha512": "f5fb62bdbc2613e6f34dcb8de45783e39bb7b98a73f04a39109cbad5b26cbbf553e41ec9c74c4a02f38e689915a104bc3666cd34f7773e225b23a44851d92ec3"
+        },
+        "Win64OpenSSL_Light-3_1_0.msi": {
+            "basever": "3.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-3_1_0.msi",
+            "size": 5132288,
+            "md5": "cb02f526ce3c3c351400d386337ec2e7",
+            "sha1": "c468e39dcf213a482b9d7906051c3157d464d595",
+            "sha256": "13a7db2b94e7d7c6a1d0164feb9173001a287ad06b982e164cd0e8f0a87ef72a",
+            "sha512": "c6f2d3c1cb42d56ffeb23751d09b7349c1884a8f718fee2ac78893f6944827b36868bf341716d5662b4695052272ecc2df1db698be050376192b3063a588238e"
         }
     }
 }
