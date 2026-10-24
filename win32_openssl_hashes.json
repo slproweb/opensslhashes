@@ -231,6 +231,34 @@
             "sha256": "925568d460ce340f28335f65dfbdf30bff8552660fb702beab00b0b7eec90ece",
             "sha512": "70a9e182aa4fc0f6093e7c14c2e09970d33fdbb9a60a6a3f8b8eeb4b8614ba2f885eb5ef51e6d9a4c828aaccad946506735ae06627ea307a36c5d5a17cae95e7"
         },
+        "Win32OpenSSL-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win32OpenSSL-4_1_0.exe",
+            "size": 233691701,
+            "md5": "fa0a153743bf348b3868e3a89be462bc",
+            "sha1": "acd0504f552fb07c94926ac07eea55e9db8a89ed",
+            "sha256": "42917e337d859df9bf3a3a1273786914a8cc67d53883d931e8b3466e6eb071b1",
+            "sha512": "f2ca279f87320d515babbfdd32694130904badbae276368ba7b2c9ede7f473095a2d003a2fd34b5a857214b271967bc10632ec24ea72e8398839c9d402a61687"
+        },
+        "Win32OpenSSL-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win32OpenSSL-4_1_0.msi",
+            "size": 233926656,
+            "md5": "750faae7daf636c55d19a5616ec63c6a",
+            "sha1": "fcb79b98b2b61f2923c3276dbb7b7e9d34318725",
+            "sha256": "7f24276fa56d10a0b619c6fda3a4cf8ffc28e6f687468e84e425413f09caf0f4",
+            "sha512": "e9508916cb5bdd05d7b6dbee7cef183ff4fdd9d6baf61e517391fc06639f9e9327cd9be2cccee494506e07a05d310359f57524f77a77cde64961f5fe74eb7124"
+        },
         "Win32OpenSSL_Light-1_1_1w.exe": {
             "basever": "1.1.1",
             "subver": "w",
@@ -455,6 +483,34 @@
             "sha256": "ed0ac9dd81889aa43daf9d05385e2933a46f1500808a70f8bd6a78ef7b124012",
             "sha512": "0cb97cb2d77444cf00d3fe3f407680df99e9f3dae102fedf6bcca77459af8f45795327af02f770aa5a357ceaf8df23006e025ed66fcd49f4ad06933d3ec1b0ef"
         },
+        "Win32OpenSSL_Light-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-4_1_0.exe",
+            "size": 4857774,
+            "md5": "a4d49dc0784b3778c21bd561fb587f94",
+            "sha1": "594accdee71aac0597afae8fa7df88e9ee54b7d5",
+            "sha256": "c09a9f04955e1b711424ec5b0236b064ce53bd20cd8c9ca7de1c9687ec8bd850",
+            "sha512": "f8d9cc9cfa6955dec3cc5cbe3306f9972902d77e631041564f694e21b38cb09a9756bd9151fdc6ba99d19889667bf7f78fc4e2f65c728c129ad9d2ba3e53f6a7"
+        },
+        "Win32OpenSSL_Light-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 32,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win32OpenSSL_Light-4_1_0.msi",
+            "size": 5111808,
+            "md5": "af02c5391229d7fc5a8c7e07ac12a093",
+            "sha1": "87c61f26d7955fa90e34b015811ed9ec3da8a54a",
+            "sha256": "66b29a9acdb2f96bca3bbb635b97cafee36153db9092cec1211c63325ae87220",
+            "sha512": "93fb7ee352fa84c5f996213b3d40548a68bc23a4103d80b03a98e8d858147bfd03e1194efe5e1092fb461f26ac04ebf945b3763cff9dd5ed170d2fd62677c58a"
+        },
         "Win64ARMOpenSSL-3_0_22.exe": {
             "basever": "3.0.22",
             "subver": "",
@@ -651,6 +707,34 @@
             "sha256": "5a75c43c1d9a4fbffea914f8af810cf64c8e55d675a2d741f478d34b742b3122",
             "sha512": "822d486dfe8acc5ea146a5541504153ac2a4ab6b702ad7564a05848d46bd5d9487a898eafd325aebb9c80acc2adbe358a9278b0d0e1d008d97f8adf99065c2fb"
         },
+        "Win64ARMOpenSSL-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL-4_1_0.exe",
+            "size": 281877843,
+            "md5": "b71054e8a08b04d9682e597cc56e8fb5",
+            "sha1": "3d6e8b2da879ba8896d49c596f61be14669905be",
+            "sha256": "b47929acfe205f9f82fd261fc80ce792741dae875f0f8d8ca36b9112867d2604",
+            "sha512": "49e4e8a974f81d324c4ecb65a9f563c494cb99c662ba58cbd8c163f887cde47974d1f11d037611782ae1174184ee446a9bf84be995e1ee705757ebb3f16fd8ce"
+        },
+        "Win64ARMOpenSSL-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL-4_1_0.msi",
+            "size": 281604096,
+            "md5": "9c7e19f6e74d5522d49bde12296d3e08",
+            "sha1": "6c0235d390ea243dd2bd64962fca47b79fcc3912",
+            "sha256": "86623d6c0af87bddacb88c615a5631a76aa99633cef764a6a3a384fe40bfc558",
+            "sha512": "6e2a8dc431095c21ed3a7fd4f2290e67b00f9b16c5d190d0c790a8a068088086a439a6814044dc9bfb5a0ce2c01c0f4895979958299bc5f844962c4de7f22214"
+        },
         "Win64ARMOpenSSL_Light-3_0_22.exe": {
             "basever": "3.0.22",
             "subver": "",
@@ -846,6 +930,34 @@
             "sha1": "fcdb5ec92dc678f86d8176c3e373aa27869bc3ce",
             "sha256": "da3c8e07b58f3b43a03179ded4ad2ed08efd1101c6e7bdb1b96681f03b4c9e53",
             "sha512": "aef01684c6ded1cb484ba990b70f4a6255498a0776c334681e25b39efa6220642023bccaac4d170cc3e0876540b5ba4b119ccb820a248ff3028fbfca920091be"
+        },
+        "Win64ARMOpenSSL_Light-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL_Light-4_1_0.exe",
+            "size": 7177309,
+            "md5": "f64fb578e12c22c7e524e8cc131a7c7f",
+            "sha1": "8a8072ff3e0df5e35a992826ababc183e07ca47c",
+            "sha256": "c8c78294710f7dced49f125d5f2d9b9892789c8dbab44aa41b32de9c9793b968",
+            "sha512": "1ce38228060df398985cb055879a3d8fc57b01d81458eda722d9806d1c3168a6a30a2108f02dcac4515ffb5cbb34729f35677df79acf16b2bcfc8d0421d9cce1"
+        },
+        "Win64ARMOpenSSL_Light-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "ARM",
+            "bits": 64,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64ARMOpenSSL_Light-4_1_0.msi",
+            "size": 6938624,
+            "md5": "70fce9443d03dd7bf211209329720713",
+            "sha1": "cb43999b6d2ff63ab93fa0ec42e44c18ecffdb6b",
+            "sha256": "3718e10b3b3cecbb8b395cf32b98deb0671093103cc0a40a062c352c82505963",
+            "sha512": "c6afbe12879354b2fea4263516cc218468b63f53c32c066d408335cc6110794e40888d1a22489006d6d08e273dc8b783372cd0fec8afef50c082f2b0696e4198"
         },
         "Win64OpenSSL-1_1_1w.exe": {
             "basever": "1.1.1",
@@ -1071,6 +1183,34 @@
             "sha256": "43f6895ace409b9bed115431221a6ed17d0754dcb2d8d8a149bafa20fa29c7ad",
             "sha512": "b3351c27b492110ef298166468fff7958a3eceb36f6c4d0edd7691c03e188c6b0630c4c04ffaff9b952f881824ed98c998d98b9302a09583c86432a2ed6adbec"
         },
+        "Win64OpenSSL-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64OpenSSL-4_1_0.exe",
+            "size": 326287747,
+            "md5": "09626d3df154e8244ab2758805f8effd",
+            "sha1": "79570ba02adf12a2d6d353577c9c3cbd1ca5c6e1",
+            "sha256": "c670e809bb7dae85c54bcf734d4981d1523f1cb1b6b77947ac3e5df46ff1ca48",
+            "sha512": "38199f24d65f32b5f89212a1bb5ccb268603e5cca12bb03aebd7ab920a7e6acef0da2ccc814663c971338bce2c34b096f1e20f181651acf0edf39a8203bc2f1d"
+        },
+        "Win64OpenSSL-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": false,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64OpenSSL-4_1_0.msi",
+            "size": 326348800,
+            "md5": "4a7275e32b4842493e0390c7f1b42e2f",
+            "sha1": "575c69f80e426b03c1da68a9d49fd24a5c549b4e",
+            "sha256": "42e47b1292787040eb56b54fc62b16d3c5e3eb85fdcb88f213a8d02f2148bc52",
+            "sha512": "044895ecbbd9d746fad1517d85a9a8e50fad465911cfa786038d65283faed00862486bab7a29a5dddde1dd65cf2018da198b522accc0e83b80d3f6dbe4eb07e7"
+        },
         "Win64OpenSSL_Light-1_1_1w.exe": {
             "basever": "1.1.1",
             "subver": "w",
@@ -1295,6 +1435,34 @@
             "sha256": "f51c72d4334429d8c19adec1a4b7059f49cb617c188ccc60f49e11868caf9201",
             "sha512": "b06dee3a4e187c8d95f08ca51e46948700c6a6ec86fe0b248f45d66db62de7341a0a14168ffdfcf6e5a0107edd6bf8b33fde256e0f5e52d8b817dd7f676cd627"
         },
+        "Win64OpenSSL_Light-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-4_1_0.exe",
+            "size": 5983253,
+            "md5": "122b8a4f79f791cae95dc30649b8d5df",
+            "sha1": "11d4268135a4d4c6bcbc6e8d5bffdac302cb5cc5",
+            "sha256": "7d1d4022eea9b89c5c6b691b01145f2e0f69aeaf6668635c8010a5f3f1c8c25d",
+            "sha512": "94d9fa3bc0db880ebc9cb1f3447ccaba528e68030171b3c2876d82686a6e8058371a3f6288668a465746ff16f6b58b567de0d6476585bf938445b0ca7aa3c0f6"
+        },
+        "Win64OpenSSL_Light-4_1_0.msi": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "INTEL",
+            "bits": 64,
+            "light": true,
+            "installer": "msi",
+            "url": "https://slproweb.com/download/Win64OpenSSL_Light-4_1_0.msi",
+            "size": 6234112,
+            "md5": "2030b8d994614f7fe1440d87a6e6aa16",
+            "sha1": "f2a01070753a4916ce8be909b158f7a7bcd4f356",
+            "sha256": "d829f32fdb09ddaf2abb1dd425fd2e6893eaf53fa5f219b14ea5d6ba012387ad",
+            "sha512": "79b8256a6c9b51b14aa04c3380ae1466a8f392134d5bb743cec975ed3645a07150fdc3e216f5a2ee90f845555625146ae65e2d4f2bfc28af53fe0e9575312abf"
+        },
         "WinUniversalOpenSSL-3_0_22.exe": {
             "basever": "3.0.22",
             "subver": "",
@@ -1393,6 +1561,20 @@
             "sha256": "423920b3d24fce13281406786dc7f405b5ccf2ea3cd8fe954ee3a8bfa085df66",
             "sha512": "57551f4ee3e3a27125147c4dafa483455a7d3b5a4c5213defd6452aaaf7a3dd28aa211990a0a7e42150f6ef254e33a370e657f84dae272cc8b260f8c0a9f8dcd"
         },
+        "WinUniversalOpenSSL-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "Universal",
+            "bits": -1,
+            "light": false,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/WinUniversalOpenSSL-4_1_0.exe",
+            "size": 194981481,
+            "md5": "c8ee244bb1cdfcf3c6f92a7cd91fbceb",
+            "sha1": "dc179f14c92db7aa4d0e1f9013ede9bb89b75ee3",
+            "sha256": "6a9e711fb6c81d44810e0cdb5a2a9011c74cffdf61232e98e61524d9b25ae2e9",
+            "sha512": "406b8bd64bd520ebadd608fcff1647fbc0fe6bc3a5465ebcaaf22a6bfa81b3b90b8ddf5a0112fa516326699786c492bed00954a0c0479d5278e2767569a2948c"
+        },
         "WinUniversalOpenSSL_Light-3_0_22.exe": {
             "basever": "3.0.22",
             "subver": "",
@@ -1490,6 +1672,20 @@
             "sha1": "d5f5f759d0fad7a6d113273d0947af08a256e388",
             "sha256": "9e443afefa21cb1616e7978e3533a764d7e5a6d85f43b59acb9957acdf97ca7f",
             "sha512": "37573629ab8993becef019c70fda5249d17a30ee87c52c023539889c36e3a19e69936de2695fba339c243f290b7794141d1333bbc7832522f44b9b2d0f778813"
+        },
+        "WinUniversalOpenSSL_Light-4_1_0.exe": {
+            "basever": "4.1.0",
+            "subver": "",
+            "arch": "Universal",
+            "bits": -1,
+            "light": true,
+            "installer": "exe",
+            "url": "https://slproweb.com/download/WinUniversalOpenSSL_Light-4_1_0.exe",
+            "size": 16632103,
+            "md5": "623468b94c4f3ef24b29d5f8c321d44b",
+            "sha1": "40ccb4e71906d8b004196e98069f190de48edee0",
+            "sha256": "f26a265effc77177747daf91cbbd3861630cca6322020eae89cca25d8b969854",
+            "sha512": "e3e4055f964d87f9ebe0fc93c928b3ae217a983b5ef7d84e298c908ef2ad1e271f229d55506a62b52f847126fde321f82297b9eeaf935e2665fb599fbb564c31"
         }
     }
 }
